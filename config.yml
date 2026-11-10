@@ -74,6 +74,15 @@ links:
       title: "Email Gamgrace Customer Support"
       target: "_blank"
 
+  - link:
+      icon: "fa-solid fa-truck-fast"
+      text: "Track Your Order"
+      url: "https://gamgrace.com/apps/track123?utm_source=linkyee&utm_medium=bio&utm_campaign=brand_hub&utm_content=track_order_btn"
+      alt: "Track Your Gamgrace Order"
+      title: "Track Your Gamgrace Order"
+      target: "_blank"
+  
+
 # -----------------------------------------------------------------------------
 # Socials
 # -----------------------------------------------------------------------------
